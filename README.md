@@ -672,6 +672,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [AgentX](https://www.agentx.so/) - 🆕 Agentic enterprise solution for scalable AI automation with plug-and-play chatbots.
 - [OutSystems](https://www.outsystems.com/) - 🆕 AI development platform for rapidly building mission-critical apps and agent governance.
 - [Sema4.ai](https://sema4.ai/) - 🆕 Enterprise AI agent platform with Python-first approach and built-in governance.
+- [Agent Barn](https://agentbarn.dev) - Open-source (Apache-2.0) control plane for AI agents: teams talk to agents in Slack, Teams, Telegram, Discord or email, agents work across Jira, GitHub, Confluence and more, and every conversation, tool call, log and cost is recorded. Runs Hermes and OpenClaw runtimes on your own Kubernetes cluster with Helm.
 
 ## 📊 Agent Evaluation & Observability
 
